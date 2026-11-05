@@ -503,7 +503,7 @@ OUTDIR=lab01/out bash tools/measure_stack.sh --role edge --watch 120 5 | tee lab
 | Виртуал төхөөрөмж | mosquitto RAM (MiB) | `MemAvailable` (MiB) | Swap `si/so` | Темп (°C) | `get_throttled` |
 |---|---|---|---|---|---|
 | 0 (суурь) | | | | | |
-| 50 | | | | | |
+| 50 |1.64 |596 |0/0 |59.1 |0XD0000 |
 | 100 | | | | | |
 | 200 | | | | | |
 
