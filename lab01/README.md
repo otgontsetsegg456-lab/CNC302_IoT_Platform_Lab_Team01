@@ -198,7 +198,7 @@ vcgencmd get_mem gpu | tee -a lab01/out/01-edge-baseline.txt
 
 | Хэмжигдэхүүн | Утга | Хаанаас | Тэмдэглэл |
 |---|---|---|---|
-| Pi загвар | | `Модель :` | `Raspberry Pi 3 Model B …` |
+| Pi загвар |3B | `Модель :` | `Raspberry Pi 3 Model B …` |
 | `MemTotal` (MiB) | 954| `Санах ой :` — "нийт" | ~925 хүлээгдэнэ |
 | `MemAvailable` (MiB) | 583| `Санах ой :` — "боломжтой" | |
 | Swap ашигласан (MiB) |0 | `Swap :` | 0 байх ёстой |
