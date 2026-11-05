@@ -352,9 +352,9 @@ ps -o pid,rss,pcpu,cmd -C dockerd
 
 | Хэсэг | RAM (MiB) | CPU % | Хаанаас |
 |---|---|---|---|
-| mosquitto | | | `03-edge-running.txt` → `docker stats` хэсэг |
+| mosquitto |6.199 |0.15 | `03-edge-running.txt` → `docker stats` хэсэг |
 | ирмэгийн агент | | | `ps … edge_agent` → RSS / 1024 |
-| Docker демон | | | `ps … dockerd` → RSS / 1024 |
+| Docker демон | 96.32|0.20 | `ps … dockerd` → RSS / 1024 |
 | **Нийт нэмэгдсэн** | | | Хүснэгт 1.1-ийн `MemAvailable` − одоогийн `MemAvailable` |
 | **Үлдэгдэл `MemAvailable`** | | | `03-edge-running.txt` → `Санах ой :` "боломжтой" |
 
