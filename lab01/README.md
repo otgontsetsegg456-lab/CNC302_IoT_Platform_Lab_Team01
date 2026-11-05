@@ -248,11 +248,11 @@ OUTDIR=lab01/out bash tools/measure_stack.sh --role cloud | tee lab01/out/02-clo
 
 | Үйлчилгээ | Эхэлсэн (сек) | Эрүүл болсон (сек) | RAM (MiB) | CPU % |
 |---|---|---|---|---|
-| emqx | | | | |
-| influxdb | | | | |
-| grafana | | | | |
-| registry | | | | |
-| **Нийт** | | | | |
+| emqx | 1| 1|233.60 | 2.45|
+| influxdb |1 |1 |31.29 |5.84 |
+| grafana |8 |8 |74.41 |0.16 |
+| registry |13 |13 |45.71 |0.34 |
+| **Нийт** |13 |13 |385.01 |8.79 |
 
 **2.5 Шалгах ба хөтчөөр нээх.**
 
