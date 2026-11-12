@@ -1,0 +1,2 @@
+path,host,qos,payload_bytes,sent,received,lost,loss_pct,duplicates,p50_ms,p95_ms,p99_ms,max_ms,mean_ms,throughput_msg_s,publish_span_s,publish_rate_msg_s,subscribers
+lan,172.16.151.122,1,200,300,300,0,0.0,0,11.852,47.719,84.422,111.488,16.472,19.9,15.172,19.8,1

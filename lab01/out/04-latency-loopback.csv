@@ -1,0 +1,2 @@
+path,host,qos,payload_bytes,sent,received,lost,loss_pct,duplicates,p50_ms,p95_ms,p99_ms,max_ms,mean_ms,throughput_msg_s,publish_span_s,publish_rate_msg_s,subscribers
+loopback,localhost,1,200,300,300,0,0.0,0,1.763,2.929,3.8,5.668,2.099,19.8,15.211,19.7,1

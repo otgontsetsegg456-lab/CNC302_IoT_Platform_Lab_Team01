@@ -1,0 +1,18 @@
+────────────────────────────────────────────────────────────────────────
+ҮҮРЭГ      : cloud — зөөврийн компьютер (үүлний давхарга)
+Огноо      : 2026-11-05T10:48:41+08:00
+Хост       : DESKTOP-JJT26RI
+Цөм        : 12 ширхэг
+Санах ой   : 7940 MiB нийт, 6278 MiB боломжтой
+Swap       : 0 MiB ашиглагдсан
+Ачаалал    : 0.48 0.54 0.35
+Диск       : 1007G нийт, 953G сул
+Docker     : Docker version 29.8.2, build 7fc2dff
+Төсөл      : cnc302-cloud
+────────────────────────────────────────────────────────────────────────
+→ Бичигдлээ: lab01/out/stack-cloud-20261105-104841.csv
+timestamp                  role   tag     name             cpu_pct  mem_usage          mem_pct  net_io           block_io        pids
+2026-11-05T10:48:43+08:00  cloud  single  cnc302-registry  0.34%    45.71MiB / 384MiB  11.90%   1.72kB / 1.22kB  0B / 0B         7
+2026-11-05T10:48:43+08:00  cloud  single  cnc302-grafana   0.16%    74.41MiB / 512MiB  14.53%   45.8kB / 9.89kB  20.5kB / 102kB  22
+2026-11-05T10:48:43+08:00  cloud  single  cnc302-influxdb  5.84%    31.29MiB / 1GiB    3.06%    8.31kB / 3.32kB  2.72MB / 13MB   53
+2026-11-05T10:48:43+08:00  cloud  single  cnc302-emqx      2.45%    233.6MiB / 1GiB    22.82%   11.2kB / 3.6kB   0B / 53.2kB     73

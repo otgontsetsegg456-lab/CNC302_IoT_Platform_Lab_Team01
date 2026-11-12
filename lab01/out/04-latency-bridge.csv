@@ -1,0 +1,2 @@
+path,host,qos,payload_bytes,sent,received,lost,loss_pct,duplicates,p50_ms,p95_ms,p99_ms,max_ms,mean_ms,throughput_msg_s,publish_span_s,publish_rate_msg_s,subscribers
+bridge,localhost,1,200,300,300,0,0.0,0,12.361,17.1,26.277,55.165,12.581,19.8,15.192,19.7,1

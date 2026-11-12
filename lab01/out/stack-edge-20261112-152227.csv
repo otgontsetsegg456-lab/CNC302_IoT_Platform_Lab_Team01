@@ -1,0 +1,2 @@
+timestamp,role,tag,name,cpu_pct,mem_usage,mem_pct,net_io,block_io,pids
+2026-11-12T15:22:30+08:00,edge,single,cnc302-mosquitto,0.07%,3.238MiB / 128MiB,2.53%,12.2kB / 3.08kB,7.28MB / 41kB,12
