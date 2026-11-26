@@ -1,7 +1,9 @@
-{
-  "UPDATED": 2,
-  "ROLLED_BACK": 2,
-  "pending": 16
-}
-10.0
-"halted"
+[
+  {
+    "UPDATED": 2,
+    "ROLLED_BACK": 2,
+    "pending": 16
+  },
+  10.0,
+  "halted"
+]
